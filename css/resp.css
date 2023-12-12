@@ -1,0 +1,85 @@
+@media only screen and (min-width: 200px) and (max-width: 570px) {
+
+    .nav {
+        width: 100%;
+    }
+     .nav .menu ul {
+        display: none;
+     }
+
+     .menubar {
+        display: block;
+        padding-left : 10px;
+     }
+
+     .subnav {
+        width: 100%;
+        padding : 0px;
+     }
+
+     .section1-banner {
+        background: url(/img/the-town-bg-01.jpg)  center ;
+        height: 125vh;
+     }
+
+     .section1-content  {
+            font-size : 40px;
+     }
+
+     .logo img {
+        padding-left : 14px;
+     }
+
+     .section2 {
+        padding : 0px;
+     }
+
+     .section2-row1 {
+       width: 100%;
+      flex-wrap: wrap;
+     }
+
+     .section2-row1-content {
+        width: 98%;
+     }
+
+     .section2-row1-image {
+        margin-bottom : 25px;
+     }
+
+     .section2-row1-content .heading {
+        font-size : 15px;
+        margin: auto;
+        width: 100%;
+     }
+
+     .section2-row1-content .heading h1 {
+        text-align: center;
+     }
+
+     .footer {
+        height: 180vh;
+     }
+
+    .footer-base1 {
+        flex-wrap: wrap;
+     }
+    .phone {
+        width: 95%;
+     }
+     .envelope {
+        width: 95%;
+     }
+
+     .footer-base2 {
+        flex-wrap: wrap;
+     }
+    .location {
+        width: 95%;
+     }
+     .email {
+        width: 95%;
+     }
+
+
+}
